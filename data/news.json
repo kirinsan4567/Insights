@@ -1,5 +1,43 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55OW80RkhVYm5PTjdaVWFzZ19palpXendtd2xmaTVrdGhGRTNXenFZem54Tjk0NzZmUGZ5Rk1PMXpJWkYxMWJz?oc=5",
+    "title": "【注目トピックス 市況・概況】NY金：大幅反落で4,364.45ドル、原油急騰による米長期金利上昇で売り優勢",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55OW80RkhVYm5PTjdaVWFzZ19palpXendtd2xmaTVrdGhGRTNXenFZem54Tjk0NzZmUGZ5Rk1PMXpJWkYxMWJz?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-09-10T22:32:05.000Z",
+    "tags": [
+      "金利・日銀",
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04empvU0hHSkYwaVdVTTdWTld6NktZdnZ1NVZTdHRCSEVORmhSU0dJSXBDcFV4U1JjREZxcTNsNi1wQk1veUtB?oc=5",
+    "title": "【AI半導体関連の装置・検査2社が減収減益から揃って反転】SCREENは利益率改善、レーザーテックは受注急回復…“20％増収”の2社で異なる時間軸で進む回復の姿",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04empvU0hHSkYwaVdVTTdWTld6NktZdnZ1NVZTdHRCSEVORmhSU0dJSXBDcFV4U1JjREZxcTNsNi1wQk1veUtB?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-09-10T22:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YSjhvRFZmeVdfTnBVSW94c1hXelpXM2wzT3ZHNXh1Y1B0Mk8tSjctLWFlM2poekdQclctTXhJNW1IeFA0Ylln?oc=5",
+    "title": "【注目トピックス 市況・概況】NY株式：NYダウは316.56ドル安、インフレ加速で金利高を警戒",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YSjhvRFZmeVdfTnBVSW94c1hXelpXM2wzT3ZHNXh1Y1B0Mk8tSjctLWFlM2poekdQclctTXhJNW1IeFA0Ylln?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-09-10T21:09:35.000Z",
+    "tags": [
+      "金利・日銀",
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://toyokeizai.net/articles/-/957581",
     "title": "視野に入る｢政策金利2％｣､地銀で広がる\"利上げ格差\"の残酷…次の利上げが逆風になりかねない｢地銀15行リスト｣ | ビジネス | 東洋経済オンライン",
     "url": "https://toyokeizai.net/articles/-/957581?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -181,6 +219,18 @@
     ],
     "summary": "",
     "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CMVFyZkRjczhQWFFyOHE1N01FdmVWZ29yeXFZSEFqMjZJV29FUnBaZlRfREhRUS1vek94amkzemQ3ZzZZSHVrVzFpYnFGLURhdVpKdkphMHdrUQ?oc=5",
+    "title": "【実践大家コラム】不動産投資、市況は甘くない、「買えば勝てる」時代は終わった",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CMVFyZkRjczhQWFFyOHE1N01FdmVWZ29yeXFZSEFqMjZJV29FUnBaZlRfREhRUS1vek94amkzemQ3ZzZZSHVrVzFpYnFGLURhdVpKdkphMHdrUQ?oc=5",
+    "source": "rakumachi.jp",
+    "date": "2026-09-10T15:05:06.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84TjBwdTFXai0tVmZZanBsMnVuNTAzZncwWlFSSGRSNWdBTEJGVHl6SkQwMlI2QWJUbWJSRmp2RTZpUWh6TmNJbU1oQldZWmtJR0hxRVJXQm53MXh3UEg5SHFRV3Yya1VaczY0REE0QVV5bTNfMVZ1M01obw?oc=5",
@@ -583,6 +633,19 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXdnb0pwTDVVRFZvczZmZUx2b0N5Q2lYak8wc2RoVkxicUtXNWRraWIwYi1SUExvMzFGcjBqOWhVc1JHMURYNHJHUDBITW5Ydl9CTmJEaXc2NmQ1VF9rYXB6ZDFUZEhwN0Y0a2QyelVtZmF1czV2X0NoYkw5S0J1S0hMRkdCSlE?oc=5",
+    "title": "【決算速報】積水ハウス---27年1月期2Qは増益、経常利益は23.8％増(フィスコ)",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXdnb0pwTDVVRFZvczZmZUx2b0N5Q2lYak8wc2RoVkxicUtXNWRraWIwYi1SUExvMzFGcjBqOWhVc1JHMURYNHJHUDBITW5Ydl9CTmJEaXc2NmQ1VF9rYXB6ZDFUZEhwN0Y0a2QyelVtZmF1czV2X0NoYkw5S0J1S0hMRkdCSlE?oc=5",
+    "source": "finance.yahoo.co.jp",
+    "date": "2026-09-10T05:17:03.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "積水"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oWTBrZmJkcEl1eWpVZTNpSlRFeUdzVGVZdDJ5Z182bTRUcE12YlpSQWhEUVROZlRxNW1CNjh2WXJ2MTh2SlA3cTZHUFB6TTd3c2U0THRPTllINGpHVkw2aTk1bXlGVHFTb2l3?oc=5",
     "title": "金利上昇リスクも直感的にセルフチェック！LIFULL HOME'S 不動産投資、収支とリスクが把握できる新機能「キャッシュフローシミュレーション」を提供開始",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oWTBrZmJkcEl1eWpVZTNpSlRFeUdzVGVZdDJ5Z182bTRUcE12YlpSQWhEUVROZlRxNW1CNjh2WXJ2MTh2SlA3cTZHUFB6TTd3c2U0THRPTllINGpHVkw2aTk1bXlGVHFTb2l3?oc=5",
@@ -699,6 +762,19 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVF0TlVKallvVzVkMC05OUw0RTNYU2Q0WmNqN2pSQ2tBR0VOR05aTkE4aVRVa0N2bHNIWE9DV1VXODluZ1F3MFctSDQxLUE5QlBxUy1WR0NQM25XN1JYTTNwZjNkWmZ1MGEzbW9aR2VvQVAyR0dEa1hDbGdfZ1Q3TER6SE9GR28?oc=5",
+    "title": "積水ハウス－2～7月期の連結営業利益は16.0%増の1803億円〔DZH 個別株情報〕(時事通信)",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVF0TlVKallvVzVkMC05OUw0RTNYU2Q0WmNqN2pSQ2tBR0VOR05aTkE4aVRVa0N2bHNIWE9DV1VXODluZ1F3MFctSDQxLUE5QlBxUy1WR0NQM25XN1JYTTNwZjNkWmZ1MGEzbW9aR2VvQVAyR0dEa1hDbGdfZ1Q3TER6SE9GR28?oc=5",
+    "source": "finance.yahoo.co.jp",
+    "date": "2026-09-10T03:48:32.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "積水"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14SUNjRWI0eVhVb3lKLWZ6aEp2MENaQVNSTDVSWnFzdW9rV3ZMOFpSWnBsZWZwbFFjOW1oWTRDSVpvNmFjQmRMNEJnME9nenBjWWQyNEVwUzJXMFFkdHRiZjV5Zm9JVHY1NkFOMVdiRDVEdE9nU1VLRHBsMzVxX3c?oc=5",
     "title": "東京駅直結「TOFROM YAESU TOWER」開業 地上51階建ての大型複合施設 八重洲エリアの再開発進む",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14SUNjRWI0eVhVb3lKLWZ6aEp2MENaQVNSTDVSWnFzdW9rV3ZMOFpSWnBsZWZwbFFjOW1oWTRDSVpvNmFjQmRMNEJnME9nenBjWWQyNEVwUzJXMFFkdHRiZjV5Zm9JVHY1NkFOMVdiRDVEdE9nU1VLRHBsMzVxX3c?oc=5",
@@ -748,7 +824,7 @@
       "東建"
     ],
     "summary": "東京駅前の一等地に東京建物が手がけた大規模複合ビル「トフロム八重洲」が開業しました。三菱・三井など大手デベロッパーとの差別化戦略を解説します。",
-    "kind": "news"
+    "kind": "press"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tVTBESVAzalhqN2hJaVBJRlppZVJVTkFCVXYtanl5NFUyQ0dFalZQV24ycS1QeFZtb0hoR0VUdU5RdGVFQ01QdVh6cmJudVF2LUxr?oc=5",
@@ -1547,6 +1623,18 @@
     ],
     "summary": "",
     "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jMFBQYXA1T3RiQ1F1RGpnQ0JEOGdoZ2dhZW9pMmpPUnNKSWlPQzNUQ0Nqa29BSmxMUllpYnFSTXMtOHlJS0xHWjI3bnd1aWt5R2RGbnZ6ZktsNUp4Y0l3N1hPaTFvT1dXbkFjTGN6cw?oc=5",
+    "title": "いきもの共生事業推進協議会、東京・晴海の再開発を認証",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jMFBQYXA1T3RiQ1F1RGpnQ0JEOGdoZ2dhZW9pMmpPUnNKSWlPQzNUQ0Nqa29BSmxMUllpYnFSTXMtOHlJS0xHWjI3bnd1aWt5R2RGbnZ6ZktsNUp4Y0l3N1hPaTFvT1dXbkFjTGN6cw?oc=5",
+    "source": "日刊工業新聞",
+    "date": "2026-09-09T12:57:38.000Z",
+    "tags": [
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "news"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FcWZhT1ZzNkNzZjFzMENwbGpxbG5xQ084Wi1WZ3NWWExkc1AwS055anJsQ2V5RjEzZ1YyVmlzSTltWjM2YnVaLWQ3RU0tRThMV180ZDNfSW1OYnJDT3hVNGtkODBpSXAtaEc0Z2xoOUt6TGY5?oc=5",
@@ -7179,11 +7267,11 @@
     "kind": "news"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjRNOHluTnpsZ1hibkdDSWFxTEYwWE5uNFJ2bEtoaGl3VXh2ejQ0bXhlYW9TVjZFYjRaVGx5THNWeHlGSHNISENkLU1sQjRGcldPSlAxTy1CUzJ1Z3gzc01IX3h0QnpvWklpSnRvM0x5YXRwQTV5ZS1mQ240UUdzUEp4Vl90YWhmTjZwN29xVUM4ajdzMnlkV2ZSaw?oc=5",
+    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVFlUW1wTWJ0UEJOMFlwSTdKVU80ZElEQnVLMmlzVWE5S1RHSDl0eVRLZXZKdlV1YjNoT3BFeFpTWjdxYnVjdWRZSEdpbXpQNFhISmZ3UDVwME1VeThmQTJwTVRWTDRaeXc2YUMxS3k3RXNpZ1NvdnBhMERRdmxPTE9vVnI0dXc?oc=5",
     "title": "来週の決算発表予定 積水ハウス、神戸物産、エニーカラーなど (9月7日～11日)(株探ニュース)",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjRNOHluTnpsZ1hibkdDSWFxTEYwWE5uNFJ2bEtoaGl3VXh2ejQ0bXhlYW9TVjZFYjRaVGx5THNWeHlGSHNISENkLU1sQjRGcldPSlAxTy1CUzJ1Z3gzc01IX3h0QnpvWklpSnRvM0x5YXRwQTV5ZS1mQ240UUdzUEp4Vl90YWhmTjZwN29xVUM4ajdzMnlkV2ZSaw?oc=5",
-    "source": "Yahoo!ファイナンス",
-    "date": "2026-09-04T07:10:00.000Z",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVFlUW1wTWJ0UEJOMFlwSTdKVU80ZElEQnVLMmlzVWE5S1RHSDl0eVRLZXZKdlV1YjNoT3BFeFpTWjdxYnVjdWRZSEdpbXpQNFhISmZ3UDVwME1VeThmQTJwTVRWTDRaeXc2YUMxS3k3RXNpZ1NvdnBhMERRdmxPTE9vVnI0dXc?oc=5",
+    "source": "finance.yahoo.co.jp",
+    "date": "2026-09-04T07:10:36.000Z",
     "tags": [
       "開発・デベロッパー",
       "積水"
@@ -15007,94 +15095,6 @@
     "date": "2026-08-31T10:28:35.000Z",
     "tags": [
       "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1odng1aFl4N2E2OUhPdHlQVHNkRlFITHlIYW5NLWxaT2s0ckM4YWJjYXNDRkJndjUxZ3lTajZtN2xkS0lfZ1pYczRjejVvQXJCTFV5UlY3ZDZ4eXdmV2N5M1pkcw?oc=5",
-    "title": "住宅ローン変動金利、２行上げ 大手５行、固定は全行引き上げ",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1odng1aFl4N2E2OUhPdHlQVHNkRlFITHlIYW5NLWxaT2s0ckM4YWJjYXNDRkJndjUxZ3lTajZtN2xkS0lfZ1pYczRjejVvQXJCTFV5UlY3ZDZ4eXdmV2N5M1pkcw?oc=5",
-    "source": "時事ドットコム",
-    "date": "2026-08-31T10:12:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "住宅ローン"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnd3FwNkkwNmtsUnZDVVFrYzktNzlVUG1nRFhpUG5tU3Z5WDNfX0I4QmJSNGw4a3JFMDl5akJLMC0zalBGWDJQS3d1aWx5QkRtNHBZ?oc=5",
-    "title": "ククレブ---岡山市の販売用不動産売却が完了",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnd3FwNkkwNmtsUnZDVVFrYzktNzlVUG1nRFhpUG5tU3Z5WDNfX0I4QmJSNGw4a3JFMDl5akJLMC0zalBGWDJQS3d1aWx5QkRtNHBZ?oc=5",
-    "source": "ダイヤモンド・オンライン",
-    "date": "2026-08-31T09:51:35.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hNy1lcGdkTXJpZHVsUkJCQzAxQUotb2tHczdtOExyQmE4YmdURm9IUmZFelZRZzN0WWV3RFptUlFNTlRTd1BDWEI5Uy1kaXpMLTdpM2laZ3lfd2xtakFBU1J4czdzbnBC?oc=5",
-    "title": "研究開発型企業向け支援サービスを強化 三井リンクラボ“オープンイノベーション支援プログラム”を拡充",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hNy1lcGdkTXJpZHVsUkJCQzAxQUotb2tHczdtOExyQmE4YmdURm9IUmZFelZRZzN0WWV3RFptUlFNTlRTd1BDWEI5Uy1kaXpMLTdpM2laZ3lfd2xtakFBU1J4czdzbnBC?oc=5",
-    "source": "ニコニコニュース",
-    "date": "2026-08-31T09:45:41.000Z",
-    "tags": [
-      "三井",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2eVlSZmpFRW8yQlJ2SWZwdy1kM2M4em13Y3FpbkFGaFRYT2RCNHBVR3Q0aXJ5R1VPRzhhTFg1Q1dya3I1NGtZ?oc=5",
-    "title": "【注目トピックス 日本株】ククレブ・アドバイザーズ—岡山市の販売用不動産売却が完了",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2eVlSZmpFRW8yQlJ2SWZwdy1kM2M4em13Y3FpbkFGaFRYT2RCNHBVR3Q0aXJ5R1VPRzhhTFg1Q1dya3I1NGtZ?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-08-31T09:42:39.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91SkN3eERZbjlta3I3eWFEUVdoUG1nSUszZjdzVHppczRNRDgwM29QaXhVWDJ4dldtMUdaUXkwdXhDdENIWmc1dG5KejJXVmRtRzZLYXZB?oc=5",
-    "title": "ゴミだらけの部屋、建たない新築…「どん底」新人大家の奮闘",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91SkN3eERZbjlta3I3eWFEUVdoUG1nSUszZjdzVHppczRNRDgwM29QaXhVWDJ4dldtMUdaUXkwdXhDdENIWmc1dG5KejJXVmRtRzZLYXZB?oc=5",
-    "source": "rakumachi.jp",
-    "date": "2026-08-31T09:41:47.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JejNoNHBZa2w5WURFS1VlZVNIckpkaGRpMlVfMUhpaHRVVldlXy0zRGxCZnl3bXk2UDZPVHJVMzlLeUpKRkFtQTZVVQ?oc=5",
-    "title": "住宅ローン変動2行上げ 9月、日銀利上げ反映",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JejNoNHBZa2w5WURFS1VlZVNIckpkaGRpMlVfMUhpaHRVVldlXy0zRGxCZnl3bXk2UDZPVHJVMzlLeUpKRkFtQTZVVQ?oc=5",
-    "source": "47NEWS",
-    "date": "2026-08-31T09:38:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "住宅ローン"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XU3RkVENuVC01RWRJN3BITVNNQ3E4UGJVU0dCQ3M1SC1BazBXdV9HSW1kZ0J1Z3pnXzkwVUt2ZG1kb1E3bGdNVVQ4RW45VDF4VjdnblpvQ1poMENEZDZ1R3hTcUF1Ti1kSF9TQg?oc=5",
-    "title": "三菱UFJ銀行と三井住友銀行、住宅ローン変動金利0.25%上げ 半年ぶり",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XU3RkVENuVC01RWRJN3BITVNNQ3E4UGJVU0dCQ3M1SC1BazBXdV9HSW1kZ0J1Z3pnXzkwVUt2ZG1kb1E3bGdNVVQ4RW45VDF4VjdnblpvQ1poMENEZDZ1R3hTcUF1Ti1kSF9TQg?oc=5",
-    "source": "日本経済新聞",
-    "date": "2026-08-31T09:30:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "住宅ローン"
     ],
     "summary": "",
     "kind": "news"
